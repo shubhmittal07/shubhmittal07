@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhmittal07
 - 👀 I’m interested in making projects , and solving problems
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Android Development with Kotlin
 - 💞️ My current skills are ---
       C++
       c
