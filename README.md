@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Shubh Mittal
-#### Android Development , Game Development
-![Android Development , Game Development](https://github.com/shubhmittal07/shubhmittal07/blob/main/banner%20(1).png)
-
 I'm Shubh from India and I love making apps for android 📲 and making games 👾, I am fluent in C/C++ , Python and Android Studio with Kotlin. I also like C# for making games using Unity Engine. I really enjoy learning about the aplications of languages and frameworks and work with them to create something new.
+
+![Android Development , Game Development](https://github.com/shubhmittal07/shubhmittal07/blob/main/banner%20(1).png)
 
 ## Skills
 * :sunglasses: C/C++
