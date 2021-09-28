@@ -1,4 +1,4 @@
-<!--![Android Development , Game Development](https://github.com/shubhmittal07/shubhmittal07/blob/main/banner%20(1).png)-->
+
 
 # Shubh Mittal
 
