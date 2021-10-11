@@ -20,7 +20,7 @@ I'm Shubh from India and I love making apps for android ðŸ“² and making games ðŸ
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhmittal07)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhmittal08&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhmittal07&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhmittal07&show_icons=true&theme=merko)  
 
