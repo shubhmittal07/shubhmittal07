@@ -7,6 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/shubhmittal07)  
 
 I'm Shubh from India and I love making apps for android 📲 and making games 👾, I am fluent in C/C++ , Python and Android Studio with Kotlin. I also like C# for making games using Unity Engine. I really enjoy learning about the aplications of languages and frameworks and work with them to create something new.
+<hr>
 
 ## ⚡ Technologies
 
@@ -25,6 +26,8 @@ I'm Shubh from India and I love making apps for android 📲 and making games �
   
 </p>
 
+<hr>
+
 ### Libraries & Framework
 
 [![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/download.html)
@@ -38,6 +41,8 @@ I'm Shubh from India and I love making apps for android 📲 and making games �
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+
+<hr>
 
 - 🌱 I’m currently learning Android Development , DSA 
 
