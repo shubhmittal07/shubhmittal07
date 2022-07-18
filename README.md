@@ -6,7 +6,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/shubhmittal07)  
 
-I'm Shubh from India and I love making apps for android 📲 and making games 👾, I am fluent in C/C++ , Python and Android Studio with Kotlin. I also like C# for making games using Unity Engine. I really enjoy learning about the aplications of languages and frameworks and work with them to create something new.
+I'm Shubh from India and I love building reliable and goal oriented solutions in form of software , I am fluent in C/C++ ,Kotlin,PHP , python,C#. I really enjoy learning about the aplications of languages and frameworks and work with them to create something new.
 <hr>
 
 ## ⚡ Technologies
