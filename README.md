@@ -1,7 +1,3 @@
-<p align = "center">
-<img src= "my_banner.png">
-</p>
-
 # Shubh Mittal
 
 ![Profile views](https://gpvc.arturio.dev/shubhmittal07)  
