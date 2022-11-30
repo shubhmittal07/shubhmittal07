@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/shubhmittal07)  
 
-I'm Shubh from India and I love building reliable and goal oriented solutions in form of software , I am fluent in C/C++ ,Kotlin,PHP , python,C#. I really enjoy learning about the aplications of languages and frameworks and work with them to create something new.
+I'm Shubh from India and I love building reliable and goal oriented solutions in form of software , I am fluent in C/C++ ,Java,Kotlin,PHP , python,C#. I really enjoy learning about the aplications of languages and frameworks and work with them to create something new.
 <hr>
 
 ## ⚡ Technologies
